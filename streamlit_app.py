@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("demas ganteng")
+st.title("Barca Juara Ucl")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
